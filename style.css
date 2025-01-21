@@ -54,7 +54,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 15px 20px 50px 100px;
+    margin: 5px 100px 50px 150px;
 
 }
 nav ul{
@@ -67,7 +67,7 @@ nav ul  li{
 }
 .nav-title{
     font-weight: 800px;
-    font-size: 45px;
+    font-size: 40px;
 }
 
 nav ul li{
@@ -100,7 +100,7 @@ margin-bottom: 0px ;
 
 .banner-title{
     font-weight: bold;
-    font-size: 45px;
+    font-size: 50px;
     margin-top: 5px;
 }
 .banner-description{
